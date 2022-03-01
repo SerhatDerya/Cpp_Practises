@@ -1,6 +1,7 @@
 # Cpp PRACTICES
 
 This repository contains practices for begginers in C++ programming.
+!!! This repository reguires basic knowledge of coding (preferably C) !!!
 
 
 
