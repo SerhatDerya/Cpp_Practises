@@ -16,3 +16,7 @@ Basic operations in C++.
 ## 3 - Flow Control Constructs
 
 Flow control constructs (switch-case, for, if-else, do-while, while, break-continue).
+
+## 4 - Arrays
+
+Arrays is being used for storing the values (elements) together.In short, array is collection of elements. In this part, you will be working on array-related algorithms.
